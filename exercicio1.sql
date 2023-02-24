@@ -1,3 +1,5 @@
+/*projeto atualizado */
+
 use fundos;
 
 select * from aplicaçao a
